@@ -21,7 +21,7 @@ Each folder is organized by **topic or technique**, such as Arrays, Hash Maps, S
 
 Each problem will include:
 - ✅ A clean `.py` file with the solution
-- 📝 A corresponding `.md` file with:
+- 📝 A corresponding `.jpg` file with:
   - Problem summary
   - Approach
   - Time/space complexity
