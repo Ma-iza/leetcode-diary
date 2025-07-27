@@ -1,7 +1,7 @@
 
-# 📘 LeetCode + DSA Learning Journal
+# 📘 LeetCode + DSA Learning Diary
 
-Welcome to my personal **LeetCode Learning Journal**!  
+Welcome to my personal **LeetCode Learning Diary**!  
 This repository documents my journey through Data Structures and Algorithms (DSA), using **LeetCode problems**, along with handwritten notes and reflective explanations.
 
 ---
